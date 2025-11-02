@@ -1,0 +1,28 @@
+body{
+    background:#366b42 ;
+    
+}
+html{
+    color:#fcba03;
+    text-align: center;
+    font-size: 40px;
+}
+p{
+    color: #77bd8f;
+    
+}
+
+header{
+    background-color: #3e614a;
+    padding: 15px;
+}
+
+a{
+    color: #67cf8b;
+    background-color: #03541f;
+    padding: 10px;
+}
+
+li{
+    margin-bottom: 25px;
+}
